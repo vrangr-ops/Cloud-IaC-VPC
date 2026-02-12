@@ -3,7 +3,7 @@
 1.  Navigate to VPC
 2.  Create VPC
 3.  Select VPC only
-4.  ![df901a633401a1b6d938a8054e63f9cd.png](../../_resources/df901a633401a1b6d938a8054e63f9cd.png)
+4.  ![](images/df901a633401a1b6d938a8054e63f9cd.png)
 5.  Name: se--first-2tier-vpc
 6.  IPv4 CIDR block --> IPv4 CIDR manual input
 7.  IPv4 CIDR --> 10.0.0.0/16 -
@@ -72,7 +72,7 @@
 5.  Destination: 0.0.0.0/0
 6.  Target: Internet Gateway, Add your internet gateway - This allows any IP to communicate with our class app.
 7.  Click "save changes"
-8.  <img src="../../_resources/76785e53a4ff8f4b8c0aad81578022ee.png" alt="76785e53a4ff8f4b8c0aad81578022ee.png" width="593" height="259" class="jop-noMdConv">
+8.   ![](images/76785e53a4ff8f4b8c0aad81578022ee.png)
 
 ## Add Security Group in private subnet
 
@@ -82,7 +82,10 @@
 
 &nbsp;
 
-<img src="../../_resources/735215fd149bb09314928f6baa407c7e.png" alt="735215fd149bb09314928f6baa407c7e.png" width="406" height="487" class="jop-noMdConv"> <img src="../../_resources/39fb0472fe465bcb29131fd11e533313.png" alt="39fb0472fe465bcb29131fd11e533313.png" width="406" height="660" class="jop-noMdConv">
+ ![](images/735215fd149bb09314928f6baa407c7e.png)
+ ![](images/39fb0472fe465bcb29131fd11e533313.png)
+
+
 
 **EC2 instance with app image**
 
@@ -90,7 +93,7 @@
 
 &nbsp;
 
-**![1ba857806ac803a5ecfd04b565fd05c5.png](../../_resources/1ba857806ac803a5ecfd04b565fd05c5.png)**
+![](images/1ba857806ac803a5ecfd04b565fd05c5.png)
 
 **Access instances**
 
