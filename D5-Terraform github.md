@@ -30,8 +30,8 @@
 <token>}</token>
 
 `resource "github_repository" "example" {`  
-`name = "example"`  
-`description = "My awesome codebase"`
+`name = "repo name"`  
+`description = "My codebase"`
 
 `visibility = "public"`  
 `}`
