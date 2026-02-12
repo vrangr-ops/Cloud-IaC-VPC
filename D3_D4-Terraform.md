@@ -84,7 +84,7 @@
 6.  `terraform apply`
     
 7.  Check instance is running in the console using a web browser  
-    ![61293f3edfcac54205d78a58c9a5bbf4.png](../../_resources/61293f3edfcac54205d78a58c9a5bbf4.png)
+    ![](images/61293f3edfcac54205d78a58c9a5bbf4.png)
     
 
 # Creating an VPC with public subnet, Internet gateway, route tables and security groups using terraform
