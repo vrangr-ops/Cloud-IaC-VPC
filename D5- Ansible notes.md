@@ -25,4 +25,4 @@ interpreter_python = auto_silent
 
 &nbsp;
 
-![fd7bf33354cbd523cf7711ce5932dfe8.png](../../_resources/fd7bf33354cbd523cf7711ce5932dfe8.png)
+![fd7bf33354cbd523cf7711ce5932dfe8.png](images/fd7bf33354cbd523cf7711ce5932dfe8.png)
