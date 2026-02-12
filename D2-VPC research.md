@@ -10,7 +10,7 @@ VPC Architecture: used to enhance security
 
 A [VPC](https://docs.aws.amazon.com/vpc/latest/userguide/configure-your-vpc.html) is a virtual network that closely resembles a traditional network that you'd operate in your own data center. After you create a VPC, you can add subnets.
 
-**![6c1b2b5eb42f07bb41562fea720bc21e.png](../../_resources/6c1b2b5eb42f07bb41562fea720bc21e.png)**
+**![](images/6c1b2b5eb42f07bb41562fea720bc21e.png)**
 
 **Subnets**
 
