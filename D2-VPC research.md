@@ -2,7 +2,7 @@
 
 VPC Architecture: used to enhance security
 
-![VPC_260209_182337.jpg](../../_resources/VPC_260209_182337.jpg)
+![VPC_260209_182337.jpg](images/VPC_260209_182337.jpg)
 
 &nbsp;
 
