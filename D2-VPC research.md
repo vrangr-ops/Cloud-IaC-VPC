@@ -77,7 +77,6 @@ If you need to connect cloud resources to:
 - VPNs
 - Direct Connect / ExpressRoute
 
-…you need a VPC.  
 It becomes the bridge between your existing infrastructure and the cloud.
 
 **5\. Performance and reliability**
